@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    max-width: 1200px;
+}
+
+.form-container{
+    max-width: 150px;
+    float: left;
+    padding: 5px;
+}
+
+.form-container input{
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+}
+
+.form-container button{
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+}
+
+.maze-container{
+    float: left;
+    margin: 0 5px;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
